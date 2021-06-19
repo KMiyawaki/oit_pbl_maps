@@ -21,6 +21,12 @@ define rect_block model
   gui_nose 0
 )
 
+define wall_block model
+(
+  size [0.2 0.8 1.5]
+  gui_nose 0
+)
+
 define polygon_block model
 (
     size [0.5 0.2 1.7]
